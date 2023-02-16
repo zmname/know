@@ -4,7 +4,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ul>
-    <li><a href="#-初衷">✨ 初衷</a></li>
+    <li><a href="#-初衷">✨ 初衷--</a></li>
     <li><a href="#-笔记结构">🧱 笔记结构</a></li>
     <li><a href="#-搭建-LearnData">🍥 搭建 LearnData</a></li>
     <li><a href="#-配置-LearnData">🔣 配置 LearnData</a></li>
