@@ -4,7 +4,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ul>
-    <li><a href="#-初衷">✨ 初衷--</a></li>
+    <li><a href="#-初衷">✨ 初衷</a></li>
     <li><a href="#-笔记结构">🧱 笔记结构</a></li>
     <li><a href="#-搭建-LearnData">🍥 搭建 LearnData</a></li>
     <li><a href="#-配置-LearnData">🔣 配置 LearnData</a></li>
@@ -21,7 +21,7 @@
    <img src="http://tc.seoipo.com/2022-12-04-11-58-19.svg" alt="Mail">
 </a>
 
-## ✨ 初衷
+## ✨ 初衷**
 
 曾经，我把知识记录在 Notion、Obsidian、飞书等知识管理软件上，导致笔记散落各处，使用起来很麻烦，也难以对外分享。
 
